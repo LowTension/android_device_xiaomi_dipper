@@ -18,3 +18,5 @@ repo sync
 lunch omni_dipper-eng
 mka recoveryimage
 ```
+
+## Thanks to  althafvly@xda for the device tree base
