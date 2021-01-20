@@ -9,6 +9,7 @@ repo sync
 ### Add this to .repo/manifest.xml
 ```xml
 <project path="device/xiaomi/dipper" name="ZonaRMR/android_device_xiaomi_dipper" remote="github" revision="android-10.0" />
+<project name="TeamWin/android_device_qcom_twrp-common" path="device/qcom/common" remote="github" revision="android-10"/>
 ```
 
 ## Compile TWRP
@@ -19,4 +20,5 @@ lunch omni_dipper-eng
 mka recoveryimage
 ```
 
-## Thanks to  althafvly@xda for the device tree base
+## Thanks to  
+althafvly@xda for the device tree base
