@@ -21,4 +21,4 @@ mka recoveryimage
 ```
 
 ## Thanks to  
-althafvly@xda for the device tree base
+althafvly@xda for the device tree base https://github.com/TeamWin/android_device_xiaomi_beryllium
